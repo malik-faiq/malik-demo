@@ -1,3 +1,4 @@
 # malik-demo
-this is my first git repository
-Author-faiq
+this is my first git repository.
+<br>
+|Author-faiq
